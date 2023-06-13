@@ -1,2 +1,2 @@
 #!/bin/bash
-It must be in that file
+grep -i "root" /etc/passwd
